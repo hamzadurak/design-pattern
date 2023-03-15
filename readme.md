@@ -12,7 +12,7 @@ tanımlanmış birçok diğer patternler gibi çeşitli şekillerde kategorize e
 creational (oluşturma), structural (yapısal) ve behavioral (davranışsal) olarak üç ana kategoriye ayrılır. Bu patternler
 şunlardır:
 
-## [Creational Design Patterns (Oluşturma Tasarım Desenleri)](https://github.com/hamzadurak/design-pattern/creational-design-patterns)
+## [Creational Design Patterns (Oluşturma Tasarım Desenleri)](creational-design-patterns)
 
 [1.Abstract Factory Pattern (Soyut Fabrika Deseni)](https://github.com/hamzadurak/design-pattern/creational-design-patterns/abstract-factory-pattern)
 
